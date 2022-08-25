@@ -399,3 +399,5 @@ FodyWeavers.xsd
 
 #custom
 old/
+Bashit-help.code-workspace
+.gitignore

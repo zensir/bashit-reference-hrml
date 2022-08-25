@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "JS Test",
+      "path": "../../Dropbox/01_Stuff/014_Sites/001_Tests/JS Test"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bashit-help"
+  }
+}
